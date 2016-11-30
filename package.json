@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "4.13.3",
-    "multer":"~"
+    "multer":"1.2.0"
   }
 }
